@@ -6049,11 +6049,11 @@ __metadata:
   linkType: hard
 
 "@types/graceful-fs@npm:^4.1.2, @types/graceful-fs@npm:^4.1.3":
-  version: 4.1.5
-  resolution: "@types/graceful-fs@npm:4.1.5"
+  version: 4.1.6
+  resolution: "@types/graceful-fs@npm:4.1.6"
   dependencies:
     "@types/node": "*"
-  checksum: 537cff67c75f25b86df8909131b4c2100028bb73368125cef1358b41ba016377d0fc86e9e6101c2d3860cb83aff1be27953616a918de5b318b5fb18c8f4de09d
+  checksum: b1d32c5ae7bd52cf60e29df20407904c4312a39612e7ec2ee23c1e3731c1cfe31d97c6941bf6cb52f5f929d50d86d92dd506436b63fafa833181d439b628885e
   languageName: node
   linkType: hard
 
@@ -22486,9 +22486,9 @@ __metadata:
   linkType: hard
 
 "ts-pattern@npm:^4.0.1":
-  version: 4.0.6
-  resolution: "ts-pattern@npm:4.0.6"
-  checksum: 0b1678cff6642999be27a5db2f3c00a636d96b0dba66a2553e0e9f61c1b73790f4d1f0791819b4e111522c8d4751e574872f3cb6c1e25232e24f6cb224685ee6
+  version: 4.1.1
+  resolution: "ts-pattern@npm:4.1.1"
+  checksum: 7511d966465070dd8eb7fa3ca6e8e709f82d670cd9a142077c99e068b2563439e77923ecbbdce558906a2d11241ba93127b3df5cb2d9eccaedeb49c393da1f38
   languageName: node
   linkType: hard
 
