@@ -22486,9 +22486,9 @@ __metadata:
   linkType: hard
 
 "ts-pattern@npm:^4.0.1":
-  version: 4.1.1
-  resolution: "ts-pattern@npm:4.1.1"
-  checksum: 7511d966465070dd8eb7fa3ca6e8e709f82d670cd9a142077c99e068b2563439e77923ecbbdce558906a2d11241ba93127b3df5cb2d9eccaedeb49c393da1f38
+  version: 4.1.2
+  resolution: "ts-pattern@npm:4.1.2"
+  checksum: 7b47aa578b0b82f3e0af9d0fe4b7d7e74f5e192bf1661edfcb22194a6ff512c9c49d7001f7ec6134fa05a56f61bd185650f52e8a1d8c1997b66a958a14228df6
   languageName: node
   linkType: hard
 
